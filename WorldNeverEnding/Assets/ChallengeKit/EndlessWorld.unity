@@ -322,6 +322,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   randomChunkPrefabs:
   - {fileID: 5123657549473316738, guid: 967304a9e767d87478f84908c51b6d9f, type: 3}
+  - {fileID: 5123657549473316738, guid: 3103dd2aa712e2a4dba288f4353c288c, type: 3}
+  - {fileID: 1666964940497917243, guid: fc3d424f4de9ec641b20f4436069bacf, type: 3}
+  - {fileID: 8667977209621632786, guid: cf137748cbfdc5c448409d1f0efeb604, type: 3}
   worldStartPivot: {x: 0, y: 0, z: 0}
   is2D: 1
   isRandom: 1
